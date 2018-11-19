@@ -30,4 +30,4 @@ Justiça.
 
 ### GitHub 
 
-Aqui está disponibilizado os arquivos fontes, as transformações e o relatório PowerBI utilizado no trabalho
+Aqui está disponibilizado os arquivos fontes, as transformações, modelo ER e o relatório PowerBI utilizado no trabalho
